@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Eric Praniewicz
+logo: "https://github.com/epraniewicz/epraniewicz.github.io/blob/c8447d9b447b2d28fbf1a8d7f13b149207a0dee9/images/Avatar.jpg"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Business Intelligence Analyst
   <br><br>
-  Second description 
+  Industry Experiences include Retail, Real Estate, Design, Construction, Manufacturing
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ericpraniewicz/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
